@@ -3,7 +3,7 @@
 ## Verification
 github_username: "DwiArsa"
 discord_id: "1033918211160293498"
-timestamp: "2025-08-16"
+timestamp: "2025-08-21"
 
 ## Developer
 - Name: DwiArsa
